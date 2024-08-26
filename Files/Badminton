@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Badminton</title>
+		<h1>Badminton</h1>
+		<hr>	
+	</head>
+
+	<body>
+
+			<ul>
+				<li>It is fun to play Badminton.</li>
+				<li>I play Badminton with my family during the weekends.</li>
+				<li>I like the feeling when I hit the shuttlecock.</li>
+			</ul>
+	</body>
+</html>
