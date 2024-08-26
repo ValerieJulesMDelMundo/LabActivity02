@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Swimming</title>
+		<h1>Swimming</h1>
+		<hr>
+	</head>
+
+	<body>
+
+			<ul>
+				<li>I love splashing around in the pool.</li>
+				<li>My favorite swimming stroke is the backstroke.</li>
+				<li>I practice during the summer.</li>
+			</ul>
+	</body>
+
+</html>
